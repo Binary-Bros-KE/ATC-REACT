@@ -1,0 +1,4 @@
+TODO 1: Picture Consent. ✅
+TODO 2: New Course Images.
+TODO 3: Each Course Gallery.
+TODO 4: Add enroll now to courses.
