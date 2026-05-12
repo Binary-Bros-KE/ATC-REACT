@@ -96,7 +96,7 @@ export const coursesData = [
       "No prior bartending experience is necessary to enroll in the Professional Mixology Course. All that's required is a passion for mixology and a determination to master the craft of a mixologist. Bring your enthusiasm, and our experienced instructors will provide you with the knowledge and skills needed to become a certified mixologist, prepared to shine in the art of creating exceptional cocktails.",
     admissionIncludes: ["Exams", "Coffee Factory Tour", "Course Booklet", "Note Book", "A pen", "One T-shirt"],
     paymentNote:
-      "Course fee is KSH. 56,000 which can be paid in installments of two or three maximum if you don't have full amount.",
+      "Course fee is KSH. 49,000 which can be paid in installments of two or three maximum if you don't have full amount.",
     curriculum: [
       {
         module: 1,
@@ -172,7 +172,7 @@ export const coursesData = [
       "No prior experience in coffee roasting is necessary to enroll in the Professional Roasting Course. All that's needed is a passion for coffee and a commitment to mastering the art of roasting. Bring your curiosity, and our expert instructors will guide you through the nuances of green coffee assessment, sensory analysis, roasting, costing, and marketing. By the end, you'll be a certified coffee roaster, well-equipped to make your mark in the coffee industry.",
     admissionIncludes: ["Exams", "Coffee Factory Tour", "Course Booklet", "Note Book", "A pen", "One T-shirt"],
     paymentNote:
-      "Course fee is KSH. 56,000 which can be paid in installments of two or three maximum if you don't have full amount.",
+      "Course fee is KSH. 72,000 which can be paid in installments of two or three maximum if you don't have full amount.",
     curriculum: [
       {
         module: 1,
@@ -236,7 +236,7 @@ export const coursesData = [
       "Enrolling in the Green Coffee Course requires a passion for the coffee industry and a desire to explore the complexities of coffee sourcing. No prior experience is necessary, making this course accessible to enthusiasts, industry professionals, and anyone eager to delve into the realm of green coffee.",
     admissionIncludes: ["Exams", "Coffee Factory Tour", "Course Booklet", "Note Book", "A pen", "One T-shirt"],
     paymentNote:
-      "Course fee is KSH. 56,000 which can be paid in installments of two or three maximum if you don't have full amount.",
+      "Course fee is KSH. 45,000 which can be paid in installments of two or three maximum if you don't have full amount.",
     curriculum: [
       {
         module: 1,
@@ -300,7 +300,7 @@ export const coursesData = [
       "No prior barista experience is needed to enroll in the Basic Barista Course. Bring your enthusiasm for coffee, and we'll provide the rest. Whether you're a coffee enthusiast or someone looking to kickstart a career in the industry, this course is tailored to introduce you to the fundamental skills required. Our expert instructors will guide you through every step, ensuring you graduate with confidence and proficiency in the art of brewing and serving exceptional coffee.",
     admissionIncludes: ["Exams", "Coffee Factory Tour", "Course Booklet", "Note Book", "A pen", "One T-shirt"],
     paymentNote:
-      "Course fee is KSH. 56,000 which can be paid in installments of two or three maximum if you don't have full amount.",
+      "Course fee is KSH. 25,000 which can be paid in installments of two or three maximum if you don't have full amount.",
     curriculum: [
       {
         module: 1,
@@ -352,7 +352,7 @@ export const coursesData = [
       "No prior experience in coffee roasting is necessary to enroll in the Manual Brew Course. All that's needed is a passion for coffee and a commitment to mastering the art of roasting. Bring your curiosity, and our expert instructors will guide you through the nuances of green coffee assessment, sensory analysis, roasting, costing, and marketing. By the end, you'll be a certified coffee roaster, well-equipped to make your mark in the coffee industry.",
     admissionIncludes: ["Exams", "Coffee Factory Tour", "Course Booklet", "Note Book", "A pen", "One T-shirt"],
     paymentNote:
-      "Course fee is KSH. 56,000 which can be paid in installments of two or three maximum if you don't have full amount.",
+      "Course fee is KSH. 40,000 which can be paid in installments of two or three maximum if you don't have full amount.",
     curriculum: [
       {
         module: 1,
@@ -417,7 +417,7 @@ export const coursesData = [
       "Basic barista knowledge is recommended for this course. Participants should be familiar with espresso preparation and milk steaming fundamentals. A passion for creativity and attention to detail will help you get the most out of this masterclass.",
     admissionIncludes: ["Exams", "Course Booklet", "Note Book", "A pen", "Certificate"],
     paymentNote:
-      "Course fee is KSH. 30,000 which can be paid in installments of two maximum.",
+      "Course fee is KSH. 30,000 which can be paid in installments of two or three maximum if you don't have full amount.",
     curriculum: [
       {
         module: 1,
@@ -476,7 +476,7 @@ export const coursesData = [
       "No prior sensory training is required. This course is open to coffee enthusiasts and professionals eager to improve their tasting and evaluation skills.",
     admissionIncludes: ["Exams", "Course Booklet", "Note Book", "A pen", "Certificate"],
     paymentNote:
-      "Course fee is KSH. 35,000 which can be paid in installments of two maximum.",
+      "Course fee is KSH. 35,000 which can be paid in installments of two or three maximum if you don't have full amount.",
     curriculum: [
       {
         module: 1,
@@ -529,7 +529,7 @@ export const coursesData = [
       "No prior experience is required. This course is suitable for baristas, hospitality staff, and beverage enthusiasts.",
     admissionIncludes: ["Exams", "Course Booklet", "Note Book", "A pen", "Certificate"],
     paymentNote:
-      "Course fee is KSH. 28,000 which can be paid in installments of two maximum.",
+      "Course fee is KSH. 28,000 which can be paid in installments of two or three maximum if you don't have full amount.",
     curriculum: [
       {
         module: 1,
@@ -582,7 +582,7 @@ export const coursesData = [
       "No prior hospitality experience is required. The course is ideal for beginners and professionals seeking to refine their service skills.",
     admissionIncludes: ["Exams", "Course Booklet", "Note Book", "A pen", "Certificate"],
     paymentNote:
-      "Course fee is KSH. 22,000 which can be paid in installments of two maximum.",
+      "Course fee is KSH. 22,000 which can be paid in installments of two or three maximum if you don't have full amount.",
     curriculum: [
       {
         module: 1,
@@ -635,7 +635,7 @@ export const coursesData = [
       "No prior business experience is required. A passion for coffee and entrepreneurship is recommended.",
     admissionIncludes: ["Exams", "Course Booklet", "Note Book", "A pen", "Certificate"],
     paymentNote:
-      "Course fee is KSH. 60,000 which can be paid in installments of two or three maximum.",
+      "Course fee is KSH. 60,000 which can be paid in installments of two or three maximum if you don't have full amount.",
     curriculum: [
       {
         module: 1,
