@@ -170,7 +170,7 @@ export default function CourseDetailPage() {
                   <div className="bg-green/10 border border-green/20 rounded-lg p-4">
                     <p className="text-espresso font-medium mb-2">Payment Note:</p>
                     <p className="text-coffee-light">{course.paymentNote}</p>
-                    <p className="text-espresso font-bold mt-2"> N/B: NO FEE REIMBURSEMENT ONCE IT'S PAID</p>
+                    <p className="text-espresso font-bold mt-2 text-yellow-600"> N/B: NO FEE REIMBURSEMENT ONCE IT'S PAID</p>
                   </div>
                 )}
               </motion.div>
