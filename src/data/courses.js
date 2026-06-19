@@ -458,7 +458,7 @@ export const coursesData = [
     fullTitle: "Coffee Sensory Skills Course",
     shortDescription:
       "Develop a refined palate to identify flavors, aromas, and quality in coffee.",
-    price: "35,000",
+    price: "60,000",
     admissionFee: "6,000",
     duration: "5 Days",
     reviews: 180,
@@ -666,6 +666,107 @@ export const coursesData = [
         title: "Financial Management",
         description:
           "Understand budgeting, cash flow, and financial planning for café success.",
+      },
+    ],
+  },
+  {
+    id: 12,
+    slug: "wine-course",
+    title: "Wine",
+    fullTitle: "Wine Course",
+    shortDescription:
+      "Discover wine fundamentals, tasting techniques, food pairing, service, and advanced wine appreciation.",
+    price: "60,000",
+    admissionFee: "6,000",
+    duration: "10 Days",
+    reviews: 175,
+    rating: 5,
+    online: false,
+    enrollment: "Ongoing",
+    students: "20+",
+    lectures: "Relative",
+    quizzes: "Relative",
+    coverImage: "https://res.cloudinary.com/dxybhmfpe/image/upload/v1781879632/atc-wine-course_g3xsad.jpg",
+    detailImage: "https://res.cloudinary.com/dxybhmfpe/image/upload/v1781879632/atc-wine-course_g3xsad.jpg",
+    summary:
+      "Raise your glass to knowledge with our Wine Course, a practical and engaging program designed for aspiring sommeliers, hospitality professionals, beverage teams, and wine lovers. Students explore wine from the ground up, learning how grape varieties, regions, terroir, winemaking, storage, service, and tasting technique shape the final experience in the glass. Through guided tastings and practical sessions, learners build confidence in evaluating wines, pairing them with food, presenting them professionally, and understanding wine as both a craft and a business.",
+    requirements:
+      "No prior wine training is required to enroll in the Wine Course. A curious palate, professional attitude, and willingness to learn are enough to begin. This course is suitable for beginners, restaurant and hotel staff, bar teams, beverage entrepreneurs, and anyone ready to develop practical wine knowledge with expert guidance.",
+    admissionIncludes: ["Exams", "Course Booklet", "Note Book", "A pen", "Certificate"],
+    paymentNote:
+      "Course fee is KSH. 60,000 which can be paid in installments of two or three maximum if you don't have full amount.",
+    curriculum: [
+      {
+        module: 1,
+        title: "Introduction to Wine",
+      },
+      {
+        module: 2,
+        title: "Grape Varieties & Wine Styles",
+      },
+      {
+        module: 3,
+        title: "Wine Making Process",
+      },
+      {
+        module: 4,
+        title: "Wine Regions of the World",
+      },
+      {
+        module: 5,
+        title: "Wine Tasting Techniques",
+      },
+      {
+        module: 6,
+        title: "Food & Wine Pairing Basics",
+      },
+      {
+        module: 7,
+        title: "Wine Service & Presentation",
+      },
+      {
+        module: 8,
+        title: "Wine Storage & Handling",
+      },
+      {
+        module: 9,
+        title: "Practical Tasting Sessions",
+      },
+      {
+        module: 10,
+        title: "Advanced Grape Varieties & Styles",
+      },
+      {
+        module: 11,
+        title: "Old World vs New World Wines",
+      },
+      {
+        module: 12,
+        title: "Viticulture & Terroir",
+      },
+      {
+        module: 13,
+        title: "Advanced Wine Tasting & Evaluation",
+      },
+      {
+        module: 14,
+        title: "Sparkling, Fortified & Dessert Wines",
+      },
+      {
+        module: 15,
+        title: "Wine & Food Pairing Advanced",
+      },
+      {
+        module: 16,
+        title: "Wine Business & Marketing Basics",
+      },
+      {
+        module: 17,
+        title: "Building a Wine List",
+      },
+      {
+        module: 18,
+        title: "Practical Tasting & Final Assessment",
       },
     ],
   },
