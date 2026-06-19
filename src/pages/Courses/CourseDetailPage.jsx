@@ -9,6 +9,10 @@ export default function CourseDetailPage() {
   const navigate = useNavigate()
   const course = getCourseBySlug(slug)
 
+  const handleEnroll = () => {
+    navigate("/apply-now")
+  }
+
   if (!course) {
     return (
       <main className="min-h-screen flex items-center justify-center">
@@ -223,12 +227,16 @@ export default function CourseDetailPage() {
                 <p className="text-4xl font-bold text-espresso mb-1">KES {course.price}</p>
               </div>
 
-              <button className="w-full bg-gold hover:bg-gold-dark text-espresso font-bold py-4 rounded-sm transition-colors duration-300 mb-4">
+              <button
+                type="button"
+                onClick={handleEnroll}
+                className="w-full bg-gold hover:bg-gold-dark text-espresso font-bold py-4 rounded-sm transition-colors duration-300 mb-4"
+              >
                 Enroll Now
               </button>
 
               <a
-                href={`https://wa.me/254700000000?text=I'm interested in the ${course.fullTitle}`}
+                href={`https://wa.me/254724637787?text=I'm interested in the ${course.fullTitle}`}
                 className="block w-full bg-green hover:bg-green/90 text-white font-semibold py-4 rounded-sm text-center transition-colors duration-300"
               >
                 WhatsApp Us
