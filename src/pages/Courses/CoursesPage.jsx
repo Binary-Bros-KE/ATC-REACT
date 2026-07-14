@@ -4,6 +4,7 @@ import { motion } from "framer-motion"
 import { FiStar, FiClock, FiUsers, FiMonitor } from "react-icons/fi"
 import { coursesData } from "../../data/courses"
 import { Link } from "react-router-dom"
+import CertifyingBodies from "../../components/CertifyingBodies"
 
 export default function CoursesPage() {
   return (
@@ -34,6 +35,8 @@ export default function CoursesPage() {
         <div className="absolute bottom-4 left-4 w-16 h-16 border-l-2 border-b-2 border-gold/50" />
         <div className="absolute bottom-4 right-4 w-16 h-16 border-r-2 border-b-2 border-gold/50" />
       </section>
+
+
 
       {/* Courses Grid */}
       <section className="py-20 bg-secondary">
@@ -122,6 +125,11 @@ export default function CoursesPage() {
           </div>
         </div>
       </section>
+
+            <CertifyingBodies
+        title="Examined & Certified By"
+        subtitle="Every graduate is examined and certified through our internationally recognized accrediting partners"
+      />
     </main>
   )
 }

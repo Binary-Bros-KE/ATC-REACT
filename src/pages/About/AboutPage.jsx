@@ -9,6 +9,7 @@ import AuxiliaryServices from "./components/AuxiliaryServices"
 import AboutTestimonials from "./components/AboutTestimonials"
 import GalleryComponent from "../../components/GalleryComponents"
 import TestimonialsSection from "../Home/components/Testimonials"
+import CertifyingBodies from "../../components/CertifyingBodies"
 
 export default function AboutPage() {
   return (
@@ -28,6 +29,7 @@ export default function AboutPage() {
         "https://res.cloudinary.com/dxybhmfpe/image/upload/v1766853257/117_ngy65c.jpg",
       ]} />
       <WhyChooseUs />
+      <CertifyingBodies variant="dark" />
       <StatsCounter />
       <AuxiliaryServices />
       <TestimonialsSection />

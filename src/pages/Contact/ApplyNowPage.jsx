@@ -3,6 +3,7 @@ import { FiHome, FiPhone, FiMail, FiSend, FiCheckCircle, FiChevronRight, FiLoade
 import { useState } from "react"
 import { courses } from "../../data/courses"
 import { Link } from "react-router-dom"
+import CertifyingBodies from "../../components/CertifyingBodies"
 
 const API_URL = import.meta.env.VITE_API_URL;
 
@@ -687,6 +688,11 @@ export default function ApplyNowPage() {
                     </div>
                 </div>
             </section>
+
+            <CertifyingBodies
+                title="Your Certificate Is Recognized"
+                subtitle="Graduate with confidence — your training is examined and certified by internationally recognized bodies"
+            />
         </div>
     )
 }

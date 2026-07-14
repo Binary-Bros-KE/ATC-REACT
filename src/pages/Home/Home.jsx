@@ -3,6 +3,7 @@ import HeroSection from './components/Hero'
 import CoffeeTypesSection from './components/Coffeetypes'
 import AboutSection from './components/About'
 import CertificationSection from './components/Certification'
+import CertifyingBodies from '../../components/CertifyingBodies'
 import CoursesSection from './components/Courses'
 import FAQSection from './components/FAQ'
 import TestimonialsSection from './components/Testimonials'
@@ -16,6 +17,7 @@ export default function Home() {
             <HeroSection />
             <CoffeeTypesSection />
             <CertificationSection />
+            <CertifyingBodies />
             <AboutSection />
             <CoursesSection />
             <CoffeeLabSection />
